@@ -32,7 +32,7 @@ const Book = (props) => {
               <BookInfo
                   data={{
                       title: `In Fellowship with GOD`,
-                      spanFirst: ``,
+                      spanFirst: `The Bruce Judge Story`,
                       imgSrc: Book1,
                       id: 'bullying',
                       content:

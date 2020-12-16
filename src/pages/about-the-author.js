@@ -12,7 +12,7 @@ const Author = (props) => (
 	<Layout>
 		<Helmet title="Authors | Bruce Judge" />
 		<Nav pathExt={props.path} />
-		<Banner spanFirst={``} contextHeading={`Authors`} />
+		<Banner spanFirst={`About the`} contextHeading={`Authors`} />
 		<div className="container">
 			<section className="body-author-contents columns">
 				{/* <div className="heading-quote column">
@@ -38,7 +38,7 @@ const Author = (props) => (
 						Bruce Raymond Judge was born in Timaru, New Zealand on Good Friday April 3, 1942.
 					</p>
 					<p>
-					He was brought up in Christchurch and graduated B Com from Canterbury University before pursuing a career in Insurance, Business and Finance.He was an executive Director of  many New Zealand listed companies including Brierley Investments Ltd before moving to Brisbane, Australia where he was the founding Executive Chairman of Ariadne Australia Ltd.  Bruce was awarded Australian Business magazine Businessman of the year in 1986 following Ariadne's successful takeover and reconstruction of Repco Ltd.
+					He was brought up in Christchurch and graduated B Com from Canterbury University before pursuing a career in Insurance, Business and Finance. He was an executive Director of  many New Zealand listed companies including Brierley Investments Ltd before moving to Brisbane, Australia where he was the founding Executive Chairman of Ariadne Australia Ltd.  Bruce was awarded Australian Business magazine Businessman of the year in 1986 following Ariadne's successful takeover and reconstruction of Repco Ltd.
 					</p>
 
 					<p>

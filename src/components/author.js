@@ -8,7 +8,7 @@ const LowerMain = ()=>{
         <>
             <section className="author-section">
                 <div className="section-title">
-                    The Authors
+                    About the Author
                 </div>
                 <div className="grid-two-columns" id="author-container">
                     <div className="wrapper-auth-content">
