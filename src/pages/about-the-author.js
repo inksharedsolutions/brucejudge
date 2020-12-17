@@ -10,9 +10,9 @@ import AuthorLJA from '../static/author/main_author.jpg';
 
 const Author = (props) => (
 	<Layout>
-		<Helmet title="Authors | Bruce Judge" />
+		<Helmet title="Author | Bruce Judge" />
 		<Nav pathExt={props.path} />
-		<Banner spanFirst={`About the`} contextHeading={`Authors`} />
+		<Banner spanFirst={`About the`} contextHeading={`Author`} />
 		<div className="container">
 			<section className="body-author-contents columns">
 				{/* <div className="heading-quote column">
