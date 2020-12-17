@@ -21,7 +21,7 @@ const MidBook = (props)=>{
                             <h1>
                                 In Fellowship with GOD
                             </h1>
-                            <h1 className="sub-title">The Bruce Judge Story</h1>
+                            <span className="sub-title">The Bruce Judge Story</span>
                             <p >
                             This book traces the spiritual experiences of Bruce’s business career that culminates in a call for all Christians, Muslims and Jews (and all others who seek truth and God in spirit) to reconcile. Jesus taught that the truth of God is simply too marvelous for human understanding so we must accept God in faith and in spirit. 
                             </p>
